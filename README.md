@@ -8,7 +8,7 @@
 
 ## About this template
 
-A one-page A4 resume for IIT Guwahati students and graduates applying for campus placements and internships. It has a header with a logo, an education table, and sections for experience, projects, skills, key courses, positions of responsibility and achievements.
+An A4 resume for IIT Guwahati students and graduates applying for campus placements and internships. It has a header with a logo, an education table, and sections for experience, projects, skills, key courses, positions of responsibility and achievements.
 
 ## What is Transform Resume
 

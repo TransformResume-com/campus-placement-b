@@ -1,6 +1,6 @@
 # IIT Guwahati Official Resume Template
 
-[Use this template on Transform Resume](https://www.transformresume.com/templates/iit-guwahati-resume-template)
+[Use this template on Transform Resume](https://www.transformresume.com/templates/iit-guwahati-resume-template?ref=github)
 
 ![IIT Guwahati Official Resume Template](https://pub-2a22aac0f1e34517967474821ddbc27c.r2.dev/uploads/templates/thumbnails/01a1e7f2-6aa2-761f-a3f1-a062262e1ac6/1795004692768.webp)
 
@@ -21,6 +21,6 @@ A free resume builder with templates and an AI assistant.
 
 ## How to make a resume with this template
 
-1. Open [Transform Resume](https://www.transformresume.com).
+1. Open [Transform Resume](https://www.transformresume.com/?ref=github).
 2. Pick IIT Guwahati Official Resume Template in the template gallery.
 3. Add your own details in the editor. Export the PDF.
